@@ -1,5 +1,5 @@
 # CSC500 Module 1 Critical Thinking Assignment - Part 1
-# Author: Andy
+# Author: Andrew Friedrich
 # Description: Program to find the addition and subtraction of two numbers.
 
 def main():
