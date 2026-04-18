@@ -1,5 +1,5 @@
 # CSC500 Module 1 Critical Thinking Assignment - Part 2
-# Author: Andy
+# Author: Andrew Friedrich
 # Description: Program to find the multiplication and division of two numbers.
 
 def main():
